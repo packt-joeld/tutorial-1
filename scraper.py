@@ -24,7 +24,7 @@ for i in range(10):
 # -----------------------------------------------------------------------------
 
 import scraperwiki
-html = scraperwiki.scrape('https://bbc.co.uk')
+html = scraperwiki.scrape(https://web.archive.org/web/20120318184750/http:/www.inmo.ie/6022)
 print html
 
 # -----------------------------------------------------------------------------
